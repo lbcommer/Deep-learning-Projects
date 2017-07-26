@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*/__pycache__
+.DS_Store
+*/.DS_Store
+*/.DS_Store
+*/.floydexpt    
+*/.floydignore
+*/.floydexpt
+*/.git
